@@ -28,7 +28,7 @@ class Post {
 
             // current date and time
             $date_added = date("Y-m-d H:i:s");
-            //get username
+            // get username
             $added_by = $this->user_obj->getUsername();
 
             if($user_to == $added_by) {

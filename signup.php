@@ -5,9 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SIGN UP • PICONOM</title>
+
+    <!-- javascript alerts -->
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="sweetalert2.min.js"></script>
     <link rel="stylesheet" href="sweetalert2.min.css">
+
+    <!-- javascript alerts -->
     <link rel="stylesheet" href="css/signup.css">
 </head>
 

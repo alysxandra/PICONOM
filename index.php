@@ -27,6 +27,7 @@
 
       <div class="container">
 
+        <!-- login form -->
         <form action="index.php" method="POST" class="login">
 
           <p class="login-text">PICONOM</p>
